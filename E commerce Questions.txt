@@ -1,0 +1,78 @@
+
+1. Customers not in Specific States
+   - Which customers are located in states other than MG, SP, and SC?
+
+2. Canceled Orders
+   - Which orders have the status 'canceled'?
+
+3. Payments with Specific Criteria
+   - Which payments were made using UPI, have a payment value of at least 500, and were completed in one installment?
+
+4. Payments within a Range
+   - Which payments have values between 150 and 200, and how are they ordered by their value?
+
+5. Cities Starting with 'R'
+   - Which customer cities start with the letter 'R'?
+
+6. Single Installment Payments
+   - Which payments were made in a single installment, and how are they ordered by payment value in descending order?
+
+7. Top 5 Payments
+   - What are the top 5 payments?
+
+8. Total Payments Sum
+   - What is the total sum of all payments, rounded to two decimal places?
+
+9. Average Payment Value
+   - What is the average payment value?
+
+10. Total Customers Count
+    - How many customers are there in total?
+
+11. Distinct Cities Count
+    - How many distinct cities do customers belong to?
+
+12. Seller City and Length
+    - What are the seller cities and the lengths of their names after trimming?
+
+13. Seller Cities in Uppercase
+    - What are the seller cities in uppercase?
+
+14. Replacing Seller City Names
+    - What are the seller city names after replacing 'CURITIBA' with 'AHMEDABAD'?
+
+15. Seller City and State Concatenation
+    - What are the seller cities and their states concatenated with a hyphen?
+
+16. Order Delivery Date Components
+    - What are the components (day, month number, month name, and year) of the order delivery dates?
+
+17. Distinct Delivery Years
+    - What are the distinct years of order delivery dates?
+
+18. Difference in Delivery Dates
+    - What is the difference in days between the actual delivery date and the estimated delivery date for orders?
+
+19. Ceiling of Payment Values
+    - What are the payment values and their upper bounds (ceiling)?
+
+20. Null Delivery Dates
+    - Which orders have no delivery date?
+
+21. Order Status Count
+    - What are the counts of each order status, ordered by the count in descending order?
+
+22. Average Payment by Method (Installments <= 4)
+    - What is the average payment value for each payment type for payments with up to 4 installments?
+
+23. Average Payment by Method (Value > 100)
+    - What is the average payment value for each payment type for payments greater than 100?
+
+24. Shipped Orders by Customers
+    - Which customers have orders with the status 'shipped'?
+
+25. Total Payment per Year
+    - What are the total payments per year and their percentage of the total payment, ordered by year?
+
+26. Top 5 Product Categories by Payment
+    - What are the top 5 product categories by total payment value and their percentage of the total payment value?
